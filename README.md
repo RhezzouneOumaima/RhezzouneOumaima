@@ -1,5 +1,6 @@
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m @RhezzouneOumaima
 <details open>
-<summary>👋 Hi, I’m @RhezzouneOumaima</summary>
+<summary>About me</summary>
 I'm 21 years old, a software engineering student in the last year at Polytechnic school in the international university.
   <ul>
 <li>Strong in integration with intuitive problem-solving skills, passionate about implementing and launching new projects. </li>
