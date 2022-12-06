@@ -7,6 +7,7 @@ I'm 21 years old, a software engineering student in the last year at Polytechnic
 <li>Ability to translate business requirements into technical solutions.</li>
     <li>I’m familiar with a variety of technologies and frameworks.</li>
 <li>I’m always adding new skills, I like also teamwork, dynamism, and a sense of responsibility.</li>
+	  <li>:e-mail: [ouma.rhezzoune@gmail.com](ouma.rhezzoune@gmail.com)</li>
 </ul>
 </details>
 
