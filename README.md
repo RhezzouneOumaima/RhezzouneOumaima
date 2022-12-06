@@ -1,6 +1,5 @@
-<details>
-<summary>About me!</summary>
-👋 Hi, I’m @RhezzouneOumaima
+<details open>
+<summary>👋 Hi, I’m @RhezzouneOumaima</summary>
 I'm 21 years old, a software engineering student in the last year at Polytechnic school in the international university.
 + Strong in integration with intuitive problem-solving skills, passionate about implementing and launching new projects. 
 + Ability to translate business requirements into technical solutions.
